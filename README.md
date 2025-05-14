@@ -28,7 +28,7 @@ Jarvis is a simple voice-controlled assistant built using Python. It listens to 
    ```bash
    python jarvis.py
 
-## Sample Music Library Code:
+## 🗂 Sample Music Library Code:
   ```python
   music = {
     "blue eyes" : "https://youtu.be/NbyHNASFi6U?si=NdExvnxP17tIozhX",
